@@ -1,2 +1,4 @@
-# DesktopAppTest
- learning to use github App
+# Working With the UI is Super Easy!
+
+ Use Github Desktop if you dont like to write 
+ commands in a bash window
