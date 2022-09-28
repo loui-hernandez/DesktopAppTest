@@ -1,12 +1,12 @@
 ![Image not found](bannerimage.jpg "James Webb Nebula Image")
 
 
-# Learning Github Desktop asdurst345345234
+
+# Learning Github Desktop I am fixing the file
+
 
 This makes things SO much easier!
 im breaking the file
-
-9782590873490570934757
 
 I added some changes!
 
