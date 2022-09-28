@@ -1,4 +1,4 @@
-![Image not found](images/bannerimage.jpg "James Webb Nebula Image")
+![Image not found](bannerimage.jpg "James Webb Nebula Image")
 
 
 # Learning Github Desktop
