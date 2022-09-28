@@ -5,6 +5,8 @@
 
 This makes things SO much easier!
 
+I added some changes!
+
 ## Contributing
 
 1. Fork it!
