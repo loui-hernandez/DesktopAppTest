@@ -1,4 +1,4 @@
-# Learning Guhub Desktop
+# Learning Github Desktop
 
 This makes things SO much easier!
 
