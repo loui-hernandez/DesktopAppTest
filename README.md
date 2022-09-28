@@ -1,7 +1,7 @@
 ![Image not found](bannerimage.jpg "James Webb Nebula Image")
 
 
-# Learning Github Desktop im breaking the file
+# Learning Github Desktop I am fixing the file
 
 This makes things SO much easier!
 
